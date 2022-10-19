@@ -1,0 +1,10 @@
+Softwares used: 
+- Visual Studio 2022: EFCore SQL & Tools in .NET Core MVC 
+- SQL Server 18
+
+External Sources:
+- SF (San Francisco) Pro Font
+- Built In Bootstrap CSS
+- colorhunt.co (finding tasteful color palettes)
+- pexels.com (images sourced through pexels)
+- google images
